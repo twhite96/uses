@@ -20,9 +20,10 @@ Let’s start with my gear which you can find on [KIT](https://kit.co/tiffanywhi
 
 - [VS Code](https://code.visualstudio.com/)
   - I also use [Frontmatter](https://frontmatter.codes) as a markdown CMS right in VS Code.
-- [Neovim](https://neovim.io/)
-  - Plugins:
-    - [NvChad](https://github.com/NvChad/NvChad)
+- [iTerm2](https://iterm2.com/)
+  - [Neovim](https://neovim.io/)
+    - Plugins:
+      - [NvChad](https://github.com/NvChad/NvChad)
   - [My neovim configs for macos](https://github.com/twhite96/neovim-configs)
 - [Warp terminal](https://www.warp.dev/)
 - Arc Browser for literally *everything*.
