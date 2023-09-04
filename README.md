@@ -30,7 +30,7 @@ Let’s start with my gear which you can find on [KIT](https://kit.co/tiffanywhi
 - [Alfred](https://www.alfredapp.com)
 - Text Expander
 - [Taskpaper](https://www.taskpaper.com/) for tasks.
-- [Obsidian](https://obsidian.md) for Project management.
+- [Obsidian](https://obsidian.md) for loosely coupled notes.
 - [Fantastical](https://flexibits.com/fantastical) for scheduling. I pay for the premium version.
 - [Sip for Mac](https://sipapp.io/) for a color picker
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
