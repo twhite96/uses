@@ -3,6 +3,9 @@
 </p>
 
 > What my gear is, what OS I am using, what editor, etc...
+
+## Table of Contents
+- [Table of Contents](#table-of-contents)
 - [The Hardware](#the-hardware)
 - [Software](#software)
 - [Home Server](#home-server)
