@@ -39,7 +39,7 @@ Let’s start with my gear which you can find on [KIT](https://kit.co/tiffanywhi
   - Best OBS client on the Mac.
 - [CleanShot X](https://cleanshot.com/) for the best screenshots you're going to get on any platform.
 
-[☝️Top](#the-hardware)
+[☝️Top](#table-of-contents)
 <hr />
 
 ## Home Server
@@ -68,7 +68,7 @@ Below is a list of the hardware I use for the rack. Click the details button to 
 
 > If you want more of an idea of my whole home lab setup, you can find it [on GitHub](https://homelab.tifflabs.org).
 
-[☝️Top](#the-hardware)
+[☝️Top](#table-of-contents)
 
 ### Server software
 Some of the software running on the servers
@@ -86,7 +86,7 @@ Some of the software running on the servers
     </ul>
 </details>
 
-[☝️Top](#the-hardware)
+[☝️Top](#table-of-contents)
 
 ### Racks on Racks...
 
@@ -101,4 +101,4 @@ So this is my setup and what I am currently using. You can show me your dev setu
 
 ![](https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2094/v1693794869/new_room_and_lab-2023-08-07_i2ds2h.webp)
 
-[☝️Top](#the-hardware)
+[☝️Top](#table-of-contents)
