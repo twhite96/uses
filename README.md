@@ -29,7 +29,13 @@ Let’s start with my gear which you can find on [KIT](https://kit.co/tiffanywhi
     - [NvChad](https://github.com/NvChad/NvChad)
   - [My neovim configs for macos](https://github.com/twhite96/neovim-configs)
 - [Warp terminal](https://www.warp.dev/)
-- Arc Browser for literally *everything*.
+- Arc Browser for admin, home lab, testing, and research.
+- Safari for docs and research
+- Microsoft Edge for search with Bing Chat
+- Jetbrains IDEs
+  - PyCharm CE
+  - RustRover Pre-release
+  - CLion
 - [Alfred](https://www.alfredapp.com)
 - Text Expander
 - [Taskpaper](https://www.taskpaper.com/) for tasks.
