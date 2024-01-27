@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/3.png" />
+  <img src="assets/4.png" />
 </p>
 
 > What my gear is, what OS I am using, what editor, etc...
